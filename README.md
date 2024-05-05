@@ -1,5 +1,3 @@
-# SMS-Spam-Detection
-
 # Spam SMS Identification Using Supervised Machine Learning and NLP
 
 ## Overview
